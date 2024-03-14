@@ -11,6 +11,7 @@ const HomeInfo = ({ currentStage }) => {
         👋
         <br />
         Future Software Engineer a la recherche d'une alternance.
+        <p className='animate-pulse text-xs text-white'>Clic gauche pour en savoir plus</p>
       </h1>
     );
 

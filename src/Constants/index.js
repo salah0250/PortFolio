@@ -132,8 +132,8 @@ export const experiences = [
    {
         title: "Baccalauréat Science Mathématique",
         company_name: "Lycée Moulay Ismail Meknès, Maroc",
-        icon: bac, // Remplacez par l'icône appropriée
-        iconBg: "#accbe1", // Remplacez par la couleur de fond appropriée pour le lycée
+        icon: bac,
+        iconBg: "#accbe1",
         date: "Septembre 2019 - Août 2020",
         points: [
             "Obtention du baccalauréat en science mathématique, préparation aux études supérieures en technologies de l'information et en ingénierie logicielle.",
@@ -142,8 +142,8 @@ export const experiences = [
     {
         title: "Diplôme Universitaire de Technologie en Génie Informatique Option Génie Logiciel",
         company_name: "Ecole Supérieure de technologie Meknès, Maroc",
-        icon: estm, // Remplacez par l'icône appropriée
-        iconBg: "#accbe1", // Remplacez par la couleur de fond appropriée pour l'ESTM
+        icon: estm, 
+        iconBg: "#accbe1", 
         date: "Septembre 2020 - Août 2022",
         points: [
             "Formation technique et pratique en génie informatique, spécialisation en génie logiciel.",
@@ -152,8 +152,8 @@ export const experiences = [
     {
         title: "Stage d'Initiation",
         company_name: "Centre provincial du système Informatique Meknès, Maroc",
-        icon: maroc, // Remplacez par l'icône appropriée
-        iconBg: "#accbe1", // Remplacez par la couleur de fond appropriée pour CPSI
+        icon: maroc, 
+        iconBg: "#accbe1", 
         date: "Juillet 2021 - Août 2021",
         points: [
             "Étude des applications web utilisées par le CPSI.",
@@ -162,8 +162,8 @@ export const experiences = [
     {
         title: "Stage Fin d'Études",
         company_name: "Centre provincial du Système Informatique Meknès, Maroc",
-        icon: maroc, // Remplacez par l'icône appropriée
-        iconBg: "#accbe1", // Remplacez par la couleur de fond appropriée pour CPSI
+        icon: maroc,
+        iconBg: "#accbe1",
         date: "Avril 2022 - Juin 2022",
         points: [
             "Création d'une application de bureau pour la gestion des formations avec suivi du chef du CPSI.",
@@ -172,8 +172,8 @@ export const experiences = [
     {
         title: "Licence en Informatique",
         company_name: "Université Côte D'Azur Nice",
-        icon: uca, // Remplacez par l'icône appropriée
-        iconBg: "#accbe1", // Remplacez par la couleur de fond appropriée pour l'université
+        icon: uca, 
+        iconBg: "#accbe1", 
         date: "Septembre 2022 - Août 2023",
         points: [
             "Cursus universitaire axé sur l'informatique, l'apprentissage des langages de programmation et des concepts de développement logiciel.",
@@ -182,8 +182,8 @@ export const experiences = [
     {
         title: "Master 1 Méthodes Informatiques Appliquées à la Gestion Des Entreprises",
         company_name: "Université Côte D'Azur Biot",
-        icon: uca, // Remplacez par l'icône appropriée
-        iconBg: "#accbe1", // Remplacez par la couleur de fond appropriée pour l'université
+        icon: uca, 
+        iconBg: "#accbe1", 
         date: "Depuis septembre 2023",
         points: [
             "Formation spécialisée dans l'application des méthodes informatiques à la gestion d'entreprise, offrant une compétence à l'interface entre la gestion et l'informatique.",
@@ -200,12 +200,12 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/salah0250',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
+        link: 'https://www.linkedin.com/',
     }
 ];
 
@@ -240,6 +240,6 @@ export const projects = [
         theme: 'btn-back-yellow',
         name: 'Système d`apprentissage et de reconnaissance de formes',
         description: 'Le but de ce projet est de développer une Web Application qui permet la reconnaissance et la détection d`un objet dans le flux donné via webcam également connu sous le nom de Object détections, basé sur l`intelligence artificielle notamment l`apprentissage automatique,',
-        link: 'https://github.com/salah025',
+        link: 'https://github.com/salah0250',
     }
 ];
