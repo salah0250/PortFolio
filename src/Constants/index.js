@@ -213,43 +213,33 @@ export const projects = [
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'Amazon Price Tracker',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        name: 'Jarvis Chatbot',
+        description: "Ce projet est un chatbot nommé Jarvis qui permet aux utilisateurs de dialoguer avec une intelligence artificielle pour gérer un jeu.  Voici un résumé des principales fonctionnalités \n : "
+        + " Reconnaissance Vocale avec API Whisper de OpenIa. \n"
+        + " Communication avec ChatGpt. \n"
+        + " Reponse Vocale avec API SpeechSynthesis de Javascript. \n",
+        link: 'https://github.com/salah0250/Projet_MIAGE',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Full Stack Threads Clone',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://github.com/adrianhajdin/threads',
+        name: 'Angular TaskManager',
+        description: "Ce projet Angular constitue un gestionnaire d`Assignments, permettant à l`utilisateur de créer, éditer, supprimer et afficher des devoirs. Le code est structuré en plusieurs composants qui offrent une interface utilisateur intuitive et interactive.\n"
+        + " Technologies Utilisées : Angular (Frontend). Node.js et Express.js (Backend).  MongoDB (Base de données).  HTTP pour la communication entre le Frontend et le Backend.       ",
+        link: 'https://front-end-assignments.onrender.com/',
     },
     {
         iconUrl: car,
         theme: 'btn-back-blue',
-        name: 'Car Finding App',
-        description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
-    },
-    {
-        iconUrl: snapgram,
-        theme: 'btn-back-pink',
-        name: 'Full Stack Instagram Clone',
-        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
-    },
-    {
-        iconUrl: estate,
-        theme: 'btn-back-black',
-        name: 'Real-Estate Application',
-        description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-        link: 'https://github.com/adrianhajdin/projects_realestate',
+        name: 'Application web de gestion des formations',
+        description: 'Cette application vise à faciliter le processus d`organisation des cours de formation et d`envoi des invitations aux bénéficiaires, afin de déduire des statistiques qui permet de savoir l’efficacité et la qualité de la formation',
+        link: 'https://github.com/salah0250/GestionFormations',
     },
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
-        name: 'AI Summarizer Application',
-        description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        link: 'https://github.com/adrianhajdin/project_ai_summarizer',
+        name: 'Système d`apprentissage et de reconnaissance de formes',
+        description: 'Le but de ce projet est de développer une Web Application qui permet la reconnaissance et la détection d`un objet dans le flux donné via webcam également connu sous le nom de Object détections, basé sur l`intelligence artificielle notamment l`apprentissage automatique,',
+        link: 'https://github.com/salah025',
     }
 ];
